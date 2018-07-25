@@ -1,3 +1,8 @@
+/*
+    The following code is a suggested modification to the already existing traffic signal system.
+    This is used to generate simulations to complement the project architectures.
+    Author: Sobhan Mondal
+*/
 #include<bits/stdc++.h>
 using namespace std;
 
