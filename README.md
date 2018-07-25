@@ -4,6 +4,9 @@ Automated donor-recipient matching for organ transplantation using machine learn
 Contributors:
 Pratik Basu and Sobhan Mondal
 
+Mail ID:
+pratik.basu191@gmail.com, sobhaniiest@gmail.com
+
 Insitute: 
 IIEST, Shibpur
 
