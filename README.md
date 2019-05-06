@@ -24,3 +24,4 @@ Our implementation is based on the following methodologies:
 3.	A GPS system to track the possible routes among the potential matches.
 4.	Real-time traffic signal optimization
 5.	Dijkstra’s Algorithm to find the shortest path from the donor hospital to acceptor hospital.
+6. 
